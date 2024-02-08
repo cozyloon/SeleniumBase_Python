@@ -4,15 +4,15 @@ Initialize a Python Virtual Environment (Optional): It's a good practice to work
 
 ```python -m venv venv```
 
-Activate the virtual environment:
+- Activate the virtual environment:
 
-- On Windows: ```venv\\Scripts\\activate```
-- On macOS and Linux: source ```venv/bin/activate```
+   - On Windows: ```venv\\Scripts\\activate```
+   - On macOS and Linux: source ```venv/bin/activate```
 
-Install SeleniumBase
+- Install SeleniumBase
 
-```pip install seleniumbase```
+  ```pip install seleniumbase```
 
-Check the SeleniumBase installation is successfully completed
+- Check the SeleniumBase installation is successfully completed
 
-Type ```seleniumbase``` or ```sbase``` in terminal
+    - Type ```seleniumbase``` or ```sbase``` in terminal
